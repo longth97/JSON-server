@@ -1,4 +1,7 @@
 {
+  "users": [
+    { "id": "2", "username": "Izan", "password": "III"}
+  ],
   "tracks": [
     { "id": "ID1", "title": "Title 1", "singer": "Singer 1" },
     { "id": "ID2", "title": "Title 2", "singer": "Singer 2" },
